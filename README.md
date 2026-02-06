@@ -99,8 +99,6 @@ Data Science undergraduate with hands-on experience building, evaluating, and de
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshaya1307&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya1307&layout=compact)
 
 ---
