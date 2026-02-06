@@ -1,113 +1,51 @@
 <h1 align="center">Naga Akshaya Boyidi</h1>
-<h3 align="center">B.Tech Data Science | Machine Learning & Data Analytics</h3>
+<p align="center">
+Data Science Student • Machine Learning • Data Analytics
+</p>
 
 ---
 
-## Professional Summary
+## 👩‍💻 What I Work On
 
-Data Science undergraduate with hands-on experience building, evaluating, and deploying machine learning models on real-world datasets (30K+ records). Strong in predictive analytics, data visualization, and cloud-based deployment. Actively seeking Data Science and Data Analyst internship opportunities.
-
----
-
-## Core Technical Skills
-
-**Machine Learning & AI**
-- scikit-learn
-- TensorFlow
-- Model Evaluation & Hyperparameter Tuning
-- Classification & Clustering
-
-**Data Analytics & Visualization**
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Power BI
-- Excel Analytics
-
-**Databases**
-- MySQL
-- PostgreSQL
-
-**Tools & Platforms**
-- AWS EC2 & S3
-- Streamlit
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-
-**Web Basics**
-- HTML, CSS, JavaScript
+- Machine Learning model development & evaluation  
+- Data cleaning and exploratory analysis  
+- Predictive analytics projects  
+- Power BI dashboards  
+- Streamlit ML apps  
 
 ---
 
-## Key Projects
+## 🛠 Tech Stack
 
-### Employee Salary Prediction — Machine Learning
-- Built ML models on UCI Adult dataset (32K+ records)
-- Achieved **85.7% accuracy**
-- Compared multiple algorithms
-- Hyperparameter tuning performed
-- Deployed Streamlit prediction app
+**Languages & Libraries**  
+Python • Pandas • NumPy • scikit-learn • TensorFlow
 
-### Customer Segmentation — Retail Analytics
-- K-Means clustering on 5K+ retail records
-- Silhouette score: **0.65**
-- Marketing segment insights generated
-- AWS S3 data pipeline used
+**Analytics & Visualization**  
+Power BI • Matplotlib • Seaborn • Excel
 
-### Sales Dashboard — Power BI
-- Interactive executive dashboard
-- 10K+ sales records analyzed
-- Identified top revenue drivers
-- Dynamic filters & drill-down visuals
+**Tools & Platforms**  
+AWS (EC2, S3) • Streamlit • Git • Jupyter • VS Code
 
-### Data Cleaning & Quality Improvement
-- Cleaned 10K+ inconsistent records
-- Reduced data issues by **40%**
-- Improved downstream reliability
+**Databases**  
+MySQL • PostgreSQL
 
 ---
 
-## Internships & Programs
+## 📌 Featured Projects
 
-- Infosys Springboard — Data Visualization Intern
-- IBM SkillsBuild — AI Virtual Internship
-- AWS Cloud Practitioner — Forage
-- TATA Data Visualization — Forage
-- SkillCraft Technology — Data Science Internship
-
----
-
-## Hackathons & Certifications
-
-- IBM Agentic AI Hackathon — HR Assistant Agent System
-- EY Techathon Level 3 — Telematics Solution
-- NPTEL Data Science for Engineers — 85%
-- Infosys Springboard Data Visualization — 80%
+- 🔹 Employee Salary Prediction — ML classification with Streamlit deployment  
+- 🔹 Customer Segmentation — K-Means clustering on retail data  
+- 🔹 Sales Analytics Dashboard — Power BI executive insights  
+- 🔹 Data Cleaning Pipeline — large dataset quality improvement  
 
 ---
 
-## Selected Repositories
+## 🎯 Current Focus
 
-- Employee-Salary-Prediction-Akshaya
-- SkillsCraftTechnology Tasks (1–4)
-- Agentic-AI-Hackathon-with-IBM
-- EY Techathon 6.0 Project
-- Data Science Hackathon Repositories
-- Amazon AI for Bharat Project
+Building portfolio-grade ML and analytics projects.
 
 ---
 
-## GitHub Statistics
+## 📫 Contact
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaya1307&layout=compact)
-
----
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/nagaakshaya-boyidi-25995635b  
-Email: boyidinagaakshaya@gmail.com
-
----
-
-⭐ Focus: Real-world Data Projects • ML Deployment • Analytics Dashboards
+LinkedIn: https://www.linkedin.com/in/nagaakshaya-boyidi-25995635b
